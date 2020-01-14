@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">DataBinding</string>
+    <string name="button">加 1</string>
+    <string name="textview">默认 0</string>
 </resources>
